@@ -2307,11 +2307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Capstone_Project\\Attendance_management\\Attendance_management\\Attendance_management.csproj",
+      "projectUniqueName": "D:\\Capstone_Project_Final\\Attendance_management\\Attendance_management\\Attendance_management.csproj",
       "projectName": "Attendance_management",
-      "projectPath": "D:\\Capstone_Project\\Attendance_management\\Attendance_management\\Attendance_management.csproj",
+      "projectPath": "D:\\Capstone_Project_Final\\Attendance_management\\Attendance_management\\Attendance_management.csproj",
       "packagesPath": "C:\\Users\\ELCOT\\.nuget\\packages\\",
-      "outputPath": "D:\\Capstone_Project\\Attendance_management\\Attendance_management\\obj\\",
+      "outputPath": "D:\\Capstone_Project_Final\\Attendance_management\\Attendance_management\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
