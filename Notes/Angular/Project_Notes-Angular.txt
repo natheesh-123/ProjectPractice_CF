@@ -41,3 +41,45 @@ For HTML Files:
 <!--
 
 
+
+userModule
+
+user-dashboard
+user-login
+user-registration
+
+
+Routing, DbServices, User Login, user Registraiton
+
+
+
+
+AttendanceModule
+
+attendance-dashboard
+attendance-view
+
+
+
+--service
+
+
+*how to create service  
+    -npx ng generate service serviceName.
+
+*Service : 
+    -in angular service in a special class with special/extra power
+    -it is used for multiple uses,
+        1.to share a data with multiple components
+        2.we can implement business logic in it
+        3.we can perform external communication(database connection)
+
+*how to access data from service into angular component
+    -if you want to access service data into angular component for this first we have to 
+     ****import service in component ts file and create instance of service class.
+
+
+
+
+
+
